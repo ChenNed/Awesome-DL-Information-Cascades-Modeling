@@ -185,26 +185,26 @@ IJCAI 2019.[paper](https://www.ijcai.org/proceedings/2019/0560.pdf)
 [paper](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewFile/17804/17070)
 1. **CRPP: Competing Recurrent Point Process for Modeling Visibility Dynamics in Information Diffusion.**
 *Avirup Saha, Bidisha Samanta, Niloy Ganguly.*
- CIKM 2018.
-[paper](https://dl.acm.org/doi/abs/10.1145/3269206.3271726)
+ CIKM 2018. 
+[paper](https://dl.acm.org/doi/abs/10.1145/3269206.3271726)  [code](https://github.com/ASCARATHIRA/CRPP)
 
 ## 2017
 1. **DeepCas: An end-to-end predictor of information cascades.**
 *C. Li, J. Ma, X. Guo, and Q. Mei.*
- WWW 2017.
-[paper](https://arxiv.org/pdf/1611.05373.pdf)
+ WWW 2017. (RNN, Macro-level)
+[paper](https://arxiv.org/pdf/1611.05373.pdf)  [code](https://github.com/chengli-um/DeepCas)
 1. **Topological recurrent neural network for diffusion prediction.**
 *Jia Wang, Vincent W Zheng, ZeminLiu, and Kevin Chen-Chuan Chang.*
- ICDM 2017.
-[paper](https://arxiv.org/pdf/1711.10162.pdf)
+ ICDM 2017. (RNN, Micro-level)
+[paper](https://arxiv.org/pdf/1711.10162.pdf)  [code](https://github.com/vwz/topolstm)
 1. **DeepHawkes: Bridging the gap between prediction and understanding of information cascades.**
 *Qi Cao, Huawei Shen, Keting Cen, Wentao Ouyang, and Xueqi Cheng.*
- CIKM 2017.
-[paper](http://www.bigdatalab.ac.cn/~shenhuawei/publications/2017/cikm-cao.pdf)
+ CIKM 2017. (RNN, Macro-level)
+[paper](http://www.bigdatalab.ac.cn/~shenhuawei/publications/2017/cikm-cao.pdf)  [code](https://github.com/CaoQi92/DeepHawkes)
 1. **Cascade dynamics modeling with attention-based recurrent neural network.**
 *Yongqing Wang, Huawei Shen, Shenghua Liu, Jinhua Gao, and Xueqi Cheng.*
- IJCAI 2017.
-[paper](https://www.ijcai.org/proceedings/2017/0416.pdf)
+ IJCAI 2017. (RNN, Micro-level)
+[paper](https://www.ijcai.org/proceedings/2017/0416.pdf)  [code](https://github.com/Allen517/cyanrnn_project)
 
 
 
