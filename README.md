@@ -1,6 +1,6 @@
 # Paper List of Deep Learning-based Information Diffusion Prediction
 
-Contributed by [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ&hl=en) from School of Computer Science, Beijing University of Posts and Telecommunications.
+Contributed by [Xueqin Chen](https://scholar.google.com/citations?user=6F-iHFsAAAAJ&hl=zh-CN) from University of Electronic Science and Technology of China (UESTC) and Leiden University.
 
 ## 2020
 1. **Joint Learning of User Representation with Diffusion Sequence and Network Structure.**
@@ -187,6 +187,7 @@ IJCAI 2019.[paper](https://www.ijcai.org/proceedings/2019/0560.pdf)
 *Avirup Saha, Bidisha Samanta, Niloy Ganguly.*
  CIKM 2018.
 [paper](https://dl.acm.org/doi/abs/10.1145/3269206.3271726)
+
 ## 2017
 1. **DeepCas: An end-to-end predictor of information cascades.**
 *C. Li, J. Ma, X. Guo, and Q. Mei.*
@@ -204,29 +205,6 @@ IJCAI 2019.[paper](https://www.ijcai.org/proceedings/2019/0560.pdf)
 *Yongqing Wang, Huawei Shen, Shenghua Liu, Jinhua Gao, and Xueqi Cheng.*
  IJCAI 2017.
 [paper](https://www.ijcai.org/proceedings/2017/0416.pdf)
-1. **A novel embedding method for information diffusion prediction in social network big data.**
-*S. Gao, H. Pang, P. Gallinari, J. Guo, and N. Kato.*
- IEEE Transactions on Industrial Informatics 2017.
-[paper](https://www.researchgate.net/publication/315435242_A_Novel_Embedding_Method_for_Information_Diffusion_Prediction_in_Social_Network_Big_Data)
-1. **LMPP: A Large Margin Point Process Combining Reinforcement and Competition for Modeling Hashtag Popularity.**
-*Bidisha Samanta, Abir De, Abhijnan Chakraborty, Niloy Ganguly.*
- IJCAI 2017.
-[paper](https://www.ijcai.org/proceedings/2017/0373.pdf)
-1. **STRM: A sister tweet reinforcement process for modeling hashtag popularity**
-*Bidisha Samanta , Abir De, Niloy Ganguly.*
- IEEE INFOCOM 2017.
-[paper](http://cse.iitkgp.ac.in/~abird/papers/mypapers/strm.pdf)
-1. **Hierarchical Community-Level Information Diffusion Modeling in Social Networks.**
-*Yuan Zhang, Tianshu Lyu, Yan Zhang.*
- SIGIR 2017.
-[paper](https://dl.acm.org/citation.cfm?id=3080784)
-## 2016
-1. **Representation learning for information diffusion through social networks: an embedded cascade model.**
-*S. Bourigault, S. Lamprier, P. Gallinari.*
- WSDM 2016.
-[paper](https://www.researchgate.net/profile/Sylvain_Lamprier/publication/311491832_Representation_Learning_for_Information_Diffusion_through_Social_Networks_an_Embedded_Cascade_Model/links/59de1c3545851557bde330d9/Representation-Learning-for-Information-Diffusion-through-Social-Networks-an-Embedded-Cascade-Model.pdf)
-1. **Influence learning for cascade diffusion models: focus on partial orders of infections.**
-*Sylvain Lamprier, Simon Bourigault, Patrick Gallinari.*
- Social Network Analysis and Mining 2016.
-[paper](https://hal.sorbonne-universite.fr/hal-01393489/document)
+
+
 
