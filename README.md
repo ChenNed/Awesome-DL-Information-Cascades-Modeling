@@ -4,7 +4,7 @@ Contributed by [Xueqin Chen](https://scholar.google.com/citations?user=6F-iHFsAA
 
 Information cascades modeling is accomplished via specific prediction tasks, which are categorized into two levels: Micro-level and Macro-level. (1) At micro-level, local patterns of social influence are studied -- e.g., inferring the action status of a user. The approaches predict the likelihood of a user propagating a particular piece of information, or forecast when the next propagation might occur given a certain information cascade. (2) At macro-level, typical studies include cascade size prediction and outbreak prediction (above a certain threshold), both cascade size prediction and outbreak prediction are aiming to estimate the future size (popularity) of the diffusion cascade.
 
-Highly recommended the following survey paper:
+Highly recommended the following survey papers:
 
 1. **A Survey of Information Cascade Analysis: Models, Predictions, and Recent Advances.**
 *Fan Zhou, Xovee Xu, Goce Trajcevski, Kunpeng Zhang.*
@@ -26,6 +26,8 @@ CSCWD 2021. (Micro-level) [paper](https://ieeexplore.ieee.org/document/9437653/a
 1. **CasSeqGCN: Combining Network Structure and Temporal Sequence to Predict Information Cascades.**
 *Yansong Wang, Xiaomeng Wang, Radosław Michalski, Yijun Ran, Tao Jia.*
 arXiv 2021. (Macro-level) [paper](https://arxiv.org/abs/2110.06836) [code](https://github.com/MrYansong/CasSeqGCN)
+1. **Neural Information Diffusion Prediction with Topic-Aware Attention Network.**
+*Hao Wang, Cheng Yang, Chuan Shi.* CIKM 2021. (Micro level) [paper]()
 
 
 ## 2020
