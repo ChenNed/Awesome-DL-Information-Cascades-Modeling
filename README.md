@@ -28,6 +28,8 @@ CSCWD 2021. (Micro-level) [paper](https://ieeexplore.ieee.org/document/9437653/a
 arXiv 2021. (Macro-level) [paper](https://arxiv.org/abs/2110.06836) [code](https://github.com/MrYansong/CasSeqGCN)
 1. **Neural Information Diffusion Prediction with Topic-Aware Attention Network.**
 *Hao Wang, Cheng Yang, Chuan Shi.* CIKM 2021. (Micro level) [paper]()
+1. **Full-Scale Information Diffusion Prediction With Reinforced Recurrent Networks.**
+*Cheng Yang, Hao Wang, Jian Tang, Chuan Shi, Maosong Sun, Ganqu Cui, Zhiyuan Liu.* TNNLS 2021. (Micro-level+Macro-level) [paper](https://ieeexplore.ieee.org/abstract/document/9526884) [code](https://github.com/albertyang33/FOREST)
 
 
 ## 2020
