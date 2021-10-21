@@ -29,7 +29,7 @@ arXiv 2021. (Macro-level) [paper](https://arxiv.org/abs/2110.06836) [code](https
 1. **Neural Information Diffusion Prediction with Topic-Aware Attention Network.**
 *Hao Wang, Cheng Yang, Chuan Shi.* CIKM 2021. (Micro level) [paper]()
 1. **Full-Scale Information Diffusion Prediction With Reinforced Recurrent Networks.**
-*Cheng Yang, Hao Wang, Jian Tang, Chuan Shi, Maosong Sun, Ganqu Cui, Zhiyuan Liu.* TNNLS 2021. (Micro-level+Macro-level) [paper](https://ieeexplore.ieee.org/abstract/document/9526884) [code](https://github.com/albertyang33/FOREST)
+*Cheng Yang, Hao Wang, Jian Tang, Chuan Shi, Maosong Sun, Ganqu Cui, Zhiyuan Liu.* TNNLS 2021. (Micro-level + Macro-level) [paper](https://ieeexplore.ieee.org/abstract/document/9526884) [code](https://github.com/albertyang33/FOREST)
 
 
 ## 2020
@@ -73,7 +73,7 @@ GLOBECOM 2020. (Macro-level) [paper](https://ieeexplore.ieee.org/abstract/docume
 ## 2019
 1. **Multi-scale Information Diffusion Prediction with Reinforced Recurrent Networks.**
 *Cheng Yang, Jian Tang, Maosong Sun, Ganqu Cui, Zhiyuan Liu.*
-IJCAI 2019. (Micro-level) [paper](https://www.ijcai.org/proceedings/2019/0560.pdf) [code](https://github.com/albertyang33/FOREST)
+IJCAI 2019. (Micro-level + Macro-level) [paper](https://www.ijcai.org/proceedings/2019/0560.pdf) [code](https://github.com/albertyang33/FOREST)
 1. **Neural diffusion model for microscopic cascade study.**
 *Cheng Yang, Maosong Sun, Haoran Liu,Shiyi Han, Zhiyuan Liu, and Huanbo Luan.*
  TKDE 2019. (Micro-level)
