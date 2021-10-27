@@ -98,6 +98,9 @@ SIGIR 2021. [paper](https://dl.acm.org/doi/10.1145/3404835.3463104)
 arXiv 2021. [paper](https://arxiv.org/abs/2110.06836) [code](https://github.com/MrYansong/CasSeqGCN)
 1. **CasGCN: Predicting future cascade growth based on information diffusion graph.**
 *Zhixuan Xu, Minghui Qian, Xiaowei Huang, Jie Meng.* arXiv 2021. [paper](https://arxiv.org/abs/2009.05152)
+1. **CCGL: Contrastive Cascade Graph Learning**
+*Xovee Xu, Fan Zhou, Kunpeng Zhang, and Siyuan Liu.*
+arXiv 2021. [paper](https://arxiv.org/pdf/2107.12576.pdf) [code](https://github.com/Xovee/ccgl)
 1. **Variational Information Diffusion for Probabilistic Cascades Prediction.**
 *Fan Zhou, Xovee Xu, Kunpeng Zhang, Goce Trajcevski, Ting Zhong.*
 INFOCOM 2020. [paper](https://ieeexplore.ieee.org/document/9155349)
@@ -110,9 +113,6 @@ arXiv 2020. [paper]() [code](https://github.com/Xovee/casflow)
 1. **Cascade-LSTM: Predicting Information Cascades using Deep Neural Networks.**
 *Sameera Horawalavithana, John Skvoretz, Adriana Iamnitchi.*
 arXiv 2020. [paper](https://arxiv.org/pdf/2004.12373.pdf)
-1. **Contrastive Cascade Graph Learning**
-*Xovee Xu, Fan Zhou, Kunpeng Zhang, and Goce Trajcevski.*
-Under review. [paper]() [code](https://github.com/Xovee/ccgl)
 1. **Continual Information Cascade Learning.**
 *Fan Zhou, Xin Jing, Xovee Xu, Ting Zhong, Goce Trajcevski, Jin Wu.*
 GLOBECOM 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9322124)
