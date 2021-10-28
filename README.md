@@ -22,7 +22,7 @@ SIGIR 2021. [paper](https://dl.acm.org/doi/10.1145/3404835.3462934)
 CSCWD 2021. [paper](https://ieeexplore.ieee.org/document/9437653/authors#authors)
 1. **Neural Information Diffusion Prediction with Topic-Aware Attention Network.**
 *Hao Wang, Cheng Yang, Chuan Shi.* CIKM 2021. [paper]()
-1. **Joint Learning of User Representation with Diffusion Sequence and Network Structure.**
+3. **Joint Learning of User Representation with Diffusion Sequence and Network Structure.**
 *Zhitao Wang, Chengyao Chen, and Wenjie Li.*
 TKDE 2020. [paper](https://ieeexplore.ieee.org/document/9094385)
 1. **HID: Hierarchical Multiscale Representation Learning for Information Diffusion.**
@@ -101,6 +101,8 @@ arXiv 2021. [paper](https://arxiv.org/abs/2110.06836) [code](https://github.com/
 1. **CCGL: Contrastive Cascade Graph Learning**
 *Xovee Xu, Fan Zhou, Kunpeng Zhang, and Siyuan Liu.*
 arXiv 2021. [paper](https://arxiv.org/pdf/2107.12576.pdf) [code](https://github.com/Xovee/ccgl)
+1. **Prediction of information cascades via content and structure proximity preserved graph level embedding.**
+*Xiaodong Feng, Qihang Zhao, Zhen Liu.* Information Sciences 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0020025520312408)
 1. **Variational Information Diffusion for Probabilistic Cascades Prediction.**
 *Fan Zhou, Xovee Xu, Kunpeng Zhang, Goce Trajcevski, Ting Zhong.*
 INFOCOM 2020. [paper](https://ieeexplore.ieee.org/document/9155349)
