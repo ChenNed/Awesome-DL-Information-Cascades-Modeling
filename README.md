@@ -142,7 +142,9 @@ GLOBECOM 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9322124)
 1. **Learning sequential features for cascade outbreak prediction.**
 *Chengcheng Gou, Huawei Shen, Pan Du, Dayong Wu, Yue Liu, Xueqi Cheng.*
  Knowledge and Information System 2018. [paper](https://link.springer.com/article/10.1007/s10115-017-1143-0)
-1. **Predicting the Popularity of Online Content with Knowledge-enhanced Neural Networks.**
+1. **User-guided hierarchical attention network for multi-modal social image popularity prediction**
+*Wei Zhang, Wen Wang, Jun Wang, Hongyuan Zha. WWW 2018. [paper](https://dl.acm.org/doi/pdf/10.1145/3178876.3186026) [code](https://github.com/Autumn945/UHAN)
+3. **Predicting the Popularity of Online Content with Knowledge-enhanced Neural Networks.**
 *Hongjian Dou, Wayne Xin Zhao, Yuanpei Zhao, Daxiang Dong, Ji-Rong Wen, Edward Y. Chang.*
  KDD 2018. [paper](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_8.pdf)
 1. **CAS2VEC: Network-Agnostic Cascade Prediction in Online Social Networks.**
