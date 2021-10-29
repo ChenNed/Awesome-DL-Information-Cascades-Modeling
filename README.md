@@ -103,6 +103,8 @@ arXiv 2021. [paper](https://arxiv.org/abs/2110.06836) [code](https://github.com/
 arXiv 2021. [paper](https://arxiv.org/pdf/2107.12576.pdf) [code](https://github.com/Xovee/ccgl)
 1. **Prediction of information cascades via content and structure proximity preserved graph level embedding.**
 *Xiaodong Feng, Qihang Zhao, Zhen Liu.* Information Sciences 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0020025520312408)
+1. **Fully Exploiting Cascade Graphs for Real-time Forwarding Prediction.**
+*Xiangyun Tang, Dongliang Liao, Weijie Huang, Jin Xu, Liehuang Zhu, Meng Shen.* AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16137) [code](https://github.com/tangguotxy/TempCas)
 1. **Variational Information Diffusion for Probabilistic Cascades Prediction.**
 *Fan Zhou, Xovee Xu, Kunpeng Zhang, Goce Trajcevski, Ting Zhong.*
 INFOCOM 2020. [paper](https://ieeexplore.ieee.org/document/9155349)
