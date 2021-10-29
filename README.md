@@ -155,12 +155,14 @@ GLOBECOM 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9322124)
 1. **Joint Modeling of Text and Networks for Cascade Prediction.**
 *Cheng Li, Xiaoxiao Guo, Qiaozhu Mei.*
  ICWSM 2018. [paper](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewFile/17804/17070)
-1. **DeepHawkes: Bridging the gap between prediction and understanding of information cascades.**
+1. **Sequential prediction of social media popularity with deep temporal context networks.**
+*Bo Wu, Wen-Huang Cheng, Yongdong Zhang, Qiushi Huang, Jintao Li, Tao Mei.* IJCAI 2017. [paper](https://arxiv.org/pdf/1712.04443.pdf) [code](https://github.com/social-media-prediction/TPIC2017)
+3. **DeepHawkes: Bridging the gap between prediction and understanding of information cascades.**
 *Qi Cao, Huawei Shen, Keting Cen, Wentao Ouyang, and Xueqi Cheng.*
  CIKM 2017. [paper](https://dl.acm.org/doi/10.1145/3132847.3132973) [code](https://github.com/CaoQi92/DeepHawkes)
 1. **DeepCas: An end-to-end predictor of information cascades.**
 *C. Li, J. Ma, X. Guo, and Q. Mei.*
- WWW 2017. [paper](https://arxiv.org/pdf/1611.05373.pdf)  [code](https://github.com/chengli-um/DeepCas)
+ WWW 2017. [paper](https://arxiv.org/pdf/1611.05373.pdf) [code](https://github.com/chengli-um/DeepCas)
 
 
 ## Micro + Macro
