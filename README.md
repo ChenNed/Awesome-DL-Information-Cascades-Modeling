@@ -124,10 +124,12 @@ GLOBECOM 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9322124)
 1. **NPP: A neural popularity prediction model for social media content.**
 *Guandan Chen, Qingchao Kong, Nan Xu, Wenji Mao.*
  Neurocomputing 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0925231218314942)
- 1. **Cascade2vec: Learning Dynamic Cascade Representation by Recurrent Graph Neural Networks.**
+1. **Cascade2vec: Learning Dynamic Cascade Representation by Recurrent Graph Neural Networks.**
 *Zhenhua Huang, Zhenyu Wang, Rui Zhang.*
  IEEE Access 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8846015) [code](https://github.com/zhenhuascut/Cascade2vec)
-1. **Information Diffusion Prediction via Recurrent Cascades Convolution.**
+1. **Popularity Prediction on Online Articles with Deep Fusion of Temporal Process and Content Features.**
+*Dongliang Liao, Jin Xu, Gongfu Li, Weijie Huang, Weiqing Liu, Jing Li.* AAAI 2019. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/3786)
+3. **Information Diffusion Prediction via Recurrent Cascades Convolution.**
 *Xueqin Chen, Fan Zhou, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Fengli Zhang.*
  IEEE ICDE 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8731564) [code](https://github.com/ChenNed/CasCN)
 1. **Deep Learning Approach on Information Diffusion in Heterogeneous Networks.**
