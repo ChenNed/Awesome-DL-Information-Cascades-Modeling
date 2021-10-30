@@ -1,4 +1,4 @@
-# Paper List of Deep Learning-based Information Diffusion Prediction
+# Paper List of Deep Learning-based Information Diffusion Modeling
 
 Contributed by [Xueqin Chen](https://scholar.google.com/citations?user=6F-iHFsAAAAJ&hl=zh-CN) from University of Electronic Science and Technology of China (UESTC) and Leiden University. Thanks for [Xovee](https://github.com/Xovee)'s suggestion for improvements!
 
