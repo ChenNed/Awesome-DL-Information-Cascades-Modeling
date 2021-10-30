@@ -90,7 +90,9 @@ ECMLPKDD 2020. [paper](https://arxiv.org/pdf/2006.05169.pdf)
  IJCAI 2017. [paper](https://www.ijcai.org/proceedings/2017/0416.pdf)  [code](https://github.com/Allen517/cyanrnn_project)
 
 ## Macro-level
-1. **Decoupling Representation and Regressor for Long-Tailed Information Cascade Prediction.**
+1. **Pre-training of Temporal Convolutional Neural Networks for Popularity Prediction.**
+*Qi Cao, Huawei Shen, Yuanhao Liu, Jinhua Gao, Xueqi Cheng.* arXiv 2021. [paper](https://arxiv.org/abs/2108.06220) 
+3. **Decoupling Representation and Regressor for Long-Tailed Information Cascade Prediction.**
 *Fan Zhou, Liu Yu, Xovee Xu, Goce Trajcevski.*
 SIGIR 2021. [paper](https://dl.acm.org/doi/10.1145/3404835.3463104)
 1. **CasSeqGCN: Combining Network Structure and Temporal Sequence to Predict Information Cascades.**
@@ -105,7 +107,9 @@ arXiv 2021. [paper](https://arxiv.org/pdf/2107.12576.pdf) [code](https://github.
 *Xiaodong Feng, Qihang Zhao, Zhen Liu.* Information Sciences 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0020025520312408)
 1. **Fully Exploiting Cascade Graphs for Real-time Forwarding Prediction.**
 *Xiangyun Tang, Dongliang Liao, Weijie Huang, Jin Xu, Liehuang Zhu, Meng Shen.* AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16137) [code](https://github.com/tangguotxy/TempCas)
-1. **Variational Information Diffusion for Probabilistic Cascades Prediction.**
+1. **A Feature Generalization Framework for Social Media Popularity Prediction.**
+*Kai Wang, Penghui Wang, Xin Chen, Qiushi Huang, Zhendong Mao, Yongdong Zhang.* MM 2020. [paper](https://dl.acm.org/doi/10.1145/3394171.3416294)
+3. **Variational Information Diffusion for Probabilistic Cascades Prediction.**
 *Fan Zhou, Xovee Xu, Kunpeng Zhang, Goce Trajcevski, Ting Zhong.*
 INFOCOM 2020. [paper](https://ieeexplore.ieee.org/document/9155349)
 1. **A Heterogeneous Dynamical Graph Neural Networks Approach to Quantify Scientific Impact.**
