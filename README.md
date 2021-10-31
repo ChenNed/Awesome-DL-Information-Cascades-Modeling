@@ -28,6 +28,9 @@ TKDE 2020. [paper](https://ieeexplore.ieee.org/document/9094385)
 1. **HID: Hierarchical Multiscale Representation Learning for Information Diffusion.**
 *Zhou Honglu, Shuyuan Xu, and Zouhui Fu.* 
 IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/0468.pdf) [code](https://github.com/hongluzhou/HID)
+1. **Cascade-LSTM: Predicting Information Cascades using Deep Neural Networks.**
+*Sameera Horawalavithana, John Skvoretz, Adriana Iamnitchi.*
+arXiv 2020. [paper](https://arxiv.org/pdf/2004.12373.pdf)
 1. **Inf-VAE: A Variational Autoencoder Framework to Integrate Homophily and Influence in Diffusion Prediction.**
 *Aravind Sankar, Xinyang Zhang, Adit Krishnan, Jiawei Han.*
 WSDM 2020. [paper](https://arxiv.org/pdf/2001.00132.pdf) [code](https://github.com/aravindsankar28/Inf-VAE)
@@ -118,16 +121,15 @@ arXiv 2020. [paper](https://xovee.cn/archive/paper/arXiv_20_HDGNN_Xovee.pdf) [co
 1. **CasFlow: Exploring Hierarchical Structures and Propagation Uncertainty for Cascade Prediction.**
 *Fan Zhou, Xovee Xu, Kunpeng Zhang, Siyuan Liu and Goce Trajcevski.*
 arXiv 2020. [paper]() [code](https://github.com/Xovee/casflow)
-1. **Cascade-LSTM: Predicting Information Cascades using Deep Neural Networks.**
-*Sameera Horawalavithana, John Skvoretz, Adriana Iamnitchi.*
-arXiv 2020. [paper](https://arxiv.org/pdf/2004.12373.pdf)
 1. **Continual Information Cascade Learning.**
 *Fan Zhou, Xin Jing, Xovee Xu, Ting Zhong, Goce Trajcevski, Jin Wu.*
 GLOBECOM 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9322124)
 1. **Coupled Graph Neural Networks for Predicting the Popularity of Online Content.**
 *Qi Cao, Huawei Shen, Jinhua Gao, Bingzheng Wei, Xueqi Cheng.*
  WSDM 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371834) [code](https://github.com/CaoQi92/CoupledGNN)
-1. **NPP: A neural popularity prediction model for social media content.**
+1. **Learning Bi-directional Social Influence in Information Cascades using Graph Sequence Attention Networks.**
+*Zhenhua Huang, Zhenyu Wang, Rui Zhang, Yangyang Zhao, Fadong Zheng.* WWW 2020. [paper](https://dl.acm.org/doi/10.1145/3366424.3382677)
+3. **NPP: A neural popularity prediction model for social media content.**
 *Guandan Chen, Qingchao Kong, Nan Xu, Wenji Mao.*
  Neurocomputing 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0925231218314942)
 1. **Cascade2vec: Learning Dynamic Cascade Representation by Recurrent Graph Neural Networks.**
