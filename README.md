@@ -21,7 +21,7 @@ SIGIR 2021. [paper](https://dl.acm.org/doi/10.1145/3404835.3462934)
 *Zongmai Cao; Kai Han; Jianfu Zhu.*
 CSCWD 2021. [paper](https://ieeexplore.ieee.org/document/9437653/authors#authors)
 1. **Neural Information Diffusion Prediction with Topic-Aware Attention Network.**
-*Hao Wang, Cheng Yang, Chuan Shi.* CIKM 2021. [paper]()
+*Hao Wang, Cheng Yang, Chuan Shi.* CIKM 2021. [paper](https://dl.acm.org/doi/10.1145/3459637.3482374) [code](https://github.com/BUPT-GAMMA/TAN)
 3. **Joint Learning of User Representation with Diffusion Sequence and Network Structure.**
 *Zhitao Wang, Chengyao Chen, and Wenjie Li.*
 TKDE 2020. [paper](https://ieeexplore.ieee.org/document/9094385)
