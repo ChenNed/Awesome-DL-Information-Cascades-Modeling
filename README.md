@@ -6,9 +6,12 @@ Information cascades modeling is accomplished via specific prediction tasks, whi
 
 Highly recommended the following survey papers:
 
+1. **Capturing Dynamics of Information Diffusion in SNS: A Survey of Methodology and Techniques**
+*Huacheng Li, Chunhe Xia, Tianbo Wang, Sheng Wen, Chao Chen, and Yang Xiang.*
+arXiv 2110.14245 [paper](https://arxiv.org/pdf/2110.14245.pdf)
 1. **A Survey of Information Cascade Analysis: Models, Predictions, and Recent Advances.**
-*Fan Zhou, Xovee Xu, Goce Trajcevski, Kunpeng Zhang.*
-CSUR 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3433000)
+*Fan Zhou, Xovee Xu, Goce Trajcevski, and Kunpeng Zhang.*
+ACM Computing Surveys 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3433000)
 1. **Survey on Deep Learning Based Popularity Prediction (in Chinese).**
 *Qi Cao, Huawei Shen，Jinhua Gao，Xueqi Cheng.* (Macro-level)
 Journal of Chinese Information Processing 2021. [paper](http://jcip.cipsc.org.cn/CN/abstract/abstract3082.shtml)
@@ -93,6 +96,9 @@ ECMLPKDD 2020. [paper](https://arxiv.org/pdf/2006.05169.pdf)
  IJCAI 2017. [paper](https://www.ijcai.org/proceedings/2017/0416.pdf)  [code](https://github.com/Allen517/cyanrnn_project)
 
 ## Macro-level
+1. **CasFlow: Exploring Hierarchical Structures and Propagation Uncertainty for Cascade Prediction.**
+*Xovee Xu, Fan Zhou, Kunpeng Zhang, Siyuan Liu, and Goce Trajcevski.*
+TKDE 2021. [paper]() [code](https://github.com/Xovee/casflow)
 1. **Pre-training of Temporal Convolutional Neural Networks for Popularity Prediction.**
 *Qi Cao, Huawei Shen, Yuanhao Liu, Jinhua Gao, Xueqi Cheng.* arXiv 2021. [paper](https://arxiv.org/abs/2108.06220) 
 3. **Decoupling Representation and Regressor for Long-Tailed Information Cascade Prediction.**
@@ -118,9 +124,6 @@ INFOCOM 2020. [paper](https://ieeexplore.ieee.org/document/9155349)
 1. **A Heterogeneous Dynamical Graph Neural Networks Approach to Quantify Scientific Impact.**
 *Fan Zhou, Xovee Xu, Ce Li, Goce Trajcevski, Ting Zhong and Kunpeng Zhang.*
 arXiv 2020. [paper](https://xovee.cn/archive/paper/arXiv_20_HDGNN_Xovee.pdf) [code](https://github.com/Xovee/hdgnn)
-1. **CasFlow: Exploring Hierarchical Structures and Propagation Uncertainty for Cascade Prediction.**
-*Fan Zhou, Xovee Xu, Kunpeng Zhang, Siyuan Liu and Goce Trajcevski.*
-arXiv 2020. [paper]() [code](https://github.com/Xovee/casflow)
 1. **Continual Information Cascade Learning.**
 *Fan Zhou, Xin Jing, Xovee Xu, Ting Zhong, Goce Trajcevski, Jin Wu.*
 GLOBECOM 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9322124)
