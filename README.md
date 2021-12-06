@@ -93,7 +93,9 @@ ECMLPKDD 2020. [paper](https://arxiv.org/pdf/2006.05169.pdf)
  IJCAI 2017. [paper](https://www.ijcai.org/proceedings/2017/0416.pdf)  [code](https://github.com/Allen517/cyanrnn_project)
 
 ## Macro-level
-1. **Pre-training of Temporal Convolutional Neural Networks for Popularity Prediction.**
+1. **AECasN: An information cascade predictor by learning the structural representation of the whole cascade network with autoencoder.**
+*Xiaodong Feng, Qihang Zhao, Yunkai Li.* Expert Systems With Applications 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0957417421015694)
+3. **Pre-training of Temporal Convolutional Neural Networks for Popularity Prediction.**
 *Qi Cao, Huawei Shen, Yuanhao Liu, Jinhua Gao, Xueqi Cheng.* arXiv 2021. [paper](https://arxiv.org/abs/2108.06220) 
 3. **Decoupling Representation and Regressor for Long-Tailed Information Cascade Prediction.**
 *Fan Zhou, Liu Yu, Xovee Xu, Goce Trajcevski.*
