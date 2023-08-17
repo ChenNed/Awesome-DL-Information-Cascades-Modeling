@@ -107,7 +107,7 @@ ECMLPKDD 2020. [paper](https://arxiv.org/pdf/2006.05169.pdf)
    *Zhen Wu, Jingya Zhou, Jie Wang, Xigang Sun.* CBD 2022 [paper](https://ieeexplore.ieee.org/document/10024585/)
 
 4. **Deep Popularity Prediction in Multi-Source Cascade with HERI-GCN.**
-   *Wu Zhen, Jingya Zhou,  Ling Liu, Chaozhuo Li, Fei Gu.*ICDE 2022.  [paper](https://ieeexplore.ieee.org/document/9835455) [code](https://github.com/Les1ie/HERI-GCN)
+  _ Wu Zhen, Jingya Zhou,  Ling Liu, Chaozhuo Li, Fei Gu_. ICDE 2022.  [paper](https://ieeexplore.ieee.org/document/9835455) [code](https://github.com/Les1ie/HERI-GCN)
 
 5. **AECasN: An information cascade predictor by learning the structural representation of the whole cascade network with autoencoder.**
   *Xiaodong Feng, Qihang Zhao, Yunkai Li.* Expert Systems With Applications 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0957417421015694)
