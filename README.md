@@ -98,20 +98,16 @@ ECMLPKDD 2020. [paper](https://arxiv.org/pdf/2006.05169.pdf)
 
 ## Macro-level
 1. **Information Diffusion Prediction via Exploiting Cascade Relationship Diversity.**
-
-  *Xigang Sun, Jingya Zhou, Zhen Wu, Jie Wang.* CSCWD 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10152625)
+   *Xigang Sun, Jingya Zhou, Zhen Wu, Jie Wang.* CSCWD 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10152625)
 
 2. **Explicit time embedding based cascade attention network for information popularity prediction.**
-
-  *Xigang Sun, Jingya Zhou, Ling Liu, Wenqi Wei.* Information Processing & Management 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000158)
+   *Xigang Sun, Jingya Zhou, Ling Liu, Wenqi Wei.* Information Processing & Management 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000158)
 
 3. **Wb-MSF: A Large-scale Multi-source Information Diffusion Dataset for Social Information Diffusion Prediction.**
-
-  *Zhen Wu, Jingya Zhou, Jie Wang, Xigang Sun.* CBD 2022 [paper](https://ieeexplore.ieee.org/document/10024585/)
+   *Zhen Wu, Jingya Zhou, Jie Wang, Xigang Sun.* CBD 2022 [paper](https://ieeexplore.ieee.org/document/10024585/)
 
 4. **Deep Popularity Prediction in Multi-Source Cascade with HERI-GCN.**
-
-  *Wu Zhen, Jingya Zhou,  Ling Liu, Chaozhuo Li, Fei Gu.*ICDE 2022.  [paper](https://ieeexplore.ieee.org/document/9835455) [code](https://github.com/Les1ie/HERI-GCN)
+   *Wu Zhen, Jingya Zhou,  Ling Liu, Chaozhuo Li, Fei Gu.*ICDE 2022.  [paper](https://ieeexplore.ieee.org/document/9835455) [code](https://github.com/Les1ie/HERI-GCN)
 
 5. **AECasN: An information cascade predictor by learning the structural representation of the whole cascade network with autoencoder.**
   *Xiaodong Feng, Qihang Zhao, Yunkai Li.* Expert Systems With Applications 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0957417421015694)
