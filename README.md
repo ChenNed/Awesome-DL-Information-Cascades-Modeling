@@ -7,8 +7,7 @@ Information cascades modeling is accomplished via specific prediction tasks, whi
 Highly recommended the following survey papers:
 
 1. **Graph representation learning for popularity prediction problem: a survey.**
-
-  *Tiantian Chen, Jianxiong Guo, Weili Wu.* Discrete Mathematics, Algorithms and Applications 2022. [paper](https://arxiv.org/abs/2203.07632)
+   *Tiantian Chen, Jianxiong Guo, Weili Wu.* Discrete Mathematics, Algorithms and Applications 2022. [paper](https://arxiv.org/abs/2203.07632)
 
 1. **A Survey of Information Cascade Analysis: Models, Predictions, and Recent Advances.**
   *Fan Zhou, Xovee Xu, Goce Trajcevski, Kunpeng Zhang.*
